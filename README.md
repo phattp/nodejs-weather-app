@@ -19,10 +19,10 @@ npm install
 
 ### Running the App
 
-Run this command to see the app.
+Run this app in devlopment mode with command below and navigate to http://localhost:3000 to see the app.
 
 ```
-node src/app.js
+npm run dev
 ```
 
 Happy Hacking!
